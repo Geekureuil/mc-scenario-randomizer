@@ -5,7 +5,7 @@ export const Vilain = (props: { vilain: VilainInterface }) => {
     return (
         <Card>
             <CardMedia>
-                <img src={props.vilain.img} style={{maxWidth: "250px"}} alt={props.vilain.en}/>
+                <img src={props.vilain.img} style={{maxWidth: "250px", maxHeight: "350px"}} alt={props.vilain.en}/>
             </CardMedia>
             <CardHeader title={props.vilain.en}/>
         </Card>

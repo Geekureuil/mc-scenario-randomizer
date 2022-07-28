@@ -36,3 +36,32 @@
         transform: rotate(360deg);
     }
 }
+
+@font-face {
+    font-family: "FTY_SPEEDY_CASUAL_NCV";
+    src: local("FTY_SPEEDY_CASUAL_NCV"),
+    url("../public/FTY_SPEEDY_CASUAL_NCV.ttf") format("truetype");
+    font-weight: bold;
+}
+
+body {
+    background-color: #D0C8D1;
+    padding: 5px;
+    font-family: FTY_SPEEDY_CASUAL_NCV, Avenir, Helvetica, Arial;
+}
+
+.MuiCardMedia-root {
+    background-color: #D0C8D1;
+}
+
+.MuiCardHeader-root {
+    background-color: #FFF2BC;
+}
+
+.MuiTypography-root {
+    font-family: inherit !important;
+}
+
+.MuiMenuItem-root {
+    font-family: inherit !important;
+}
