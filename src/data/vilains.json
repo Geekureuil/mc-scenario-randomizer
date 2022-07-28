@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "en": "Rhino",
+    "img": "img/vilain/rhino.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 2,
+    "en": "Klaw",
+    "img": "img/vilain/klaw.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 3,
+    "en": "Ultron",
+    "img": "img/vilain/ultron.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 4,
+    "en": "Risky Business",
+    "img": "img/vilain/riskybusiness.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 5,
+    "en": "Mutagen Formula",
+    "img": "img/vilain/mutagenformula.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 6,
+    "en": "Wrecking Crew",
+    "img": "img/vilain/wreckingcrew.png",
+    "modularMandatory": [],
+    "modularRandom": 0
+  },
+  {
+    "id": 7,
+    "en": "Crossbones",
+    "img": "img/vilain/crossbones.png",
+    "modularMandatory": [
+      11
+    ],
+    "modularRandom": 3
+  },
+  {
+    "id": 8,
+    "en": "Absorbing Man",
+    "img": "img/vilain/absorbingman.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 9,
+    "en": "Taskmaster",
+    "img": "img/vilain/taskmaster.png",
+    "modularMandatory": [
+      12
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 10,
+    "en": "Zola",
+    "img": "img/vilain/zola.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 11,
+    "en": "Red Skull",
+    "img": "img/vilain/redskull.png",
+    "modularMandatory": [],
+    "modularRandom": 2
+  },
+  {
+    "id": 12,
+    "en": "Kang",
+    "img": "img/vilain/kang.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 13,
+    "en": "Drang",
+    "img": "img/vilain/drang.png",
+    "modularMandatory": [
+      21
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 14,
+    "en": "Collector - Infiltrate the Museum",
+    "img": "img/vilain/collector1.png",
+    "modularMandatory": [
+      17
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 15,
+    "en": "Collector – Escape the Museum",
+    "img": "img/vilain/collector2.png",
+    "modularMandatory": [
+      17,
+      21
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 16,
+    "en": "Nebula",
+    "img": "img/vilain/nebula.png",
+    "modularMandatory": [
+      22,
+      21
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 17,
+    "en": "Ronan",
+    "img": "img/vilain/ronan.png",
+    "modularMandatory": [
+      22,
+      21
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 18,
+    "en": "Ebony Maw",
+    "img": "img/vilain/ebonymaw.png",
+    "modularMandatory": [],
+    "modularRandom": 2
+  },
+  {
+    "id": 19,
+    "en": "Proxima Midnight/Corvus Glaive",
+    "img": "img/vilain/proximamidnight.png",
+    "modularMandatory": [],
+    "modularRandom": 1
+  },
+  {
+    "id": 20,
+    "en": "Thanos",
+    "img": "img/vilain/thanos.png",
+    "modularMandatory": [
+      26
+    ],
+    "modularRandom": 2
+  },
+  {
+    "id": 21,
+    "en": "Hela",
+    "img": "img/vilain/hela.png",
+    "modularMandatory": [],
+    "modularRandom": 2
+  },
+  {
+    "id": 22,
+    "en": "Loki",
+    "img": "img/vilain/loki.png",
+    "modularMandatory": [
+      26
+    ],
+    "modularRandom": 2
+  },
+  {
+    "id": 23,
+    "en": "The Hood",
+    "img": "img/vilain/thehood.png",
+    "modularMandatory": [],
+    "modularRandom": 7
+  },
+  {
+    "id": 24,
+    "en": "Sandman",
+    "img": "img/vilain/sandman.png",
+    "modularMandatory": [
+      38
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 25,
+    "en": "Venom",
+    "img": "img/vilain/venom.png",
+    "modularMandatory": [
+      45
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 26,
+    "en": "Mysterio",
+    "img": "img/vilain/mysterio.png",
+    "modularMandatory": [
+      43
+    ],
+    "modularRandom": 1
+  },
+  {
+    "id": 27,
+    "en": "Sinister Six",
+    "img": "img/vilain/sinistersix.png",
+    "modularMandatory": [
+      41
+    ],
+    "modularRandom": 0
+  },
+  {
+    "id": 28,
+    "en": "Venom Goblin",
+    "img": "img/vilain/venomgoblin.png",
+    "modularMandatory": [
+      45
+    ],
+    "modularRandom": 1
+  }
+]

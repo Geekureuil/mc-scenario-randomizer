@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "en": "Bomb Scare",
+    "fr": "Alerte à la bombe",
+    "img": "img/modular/bombscare.png"
+  },
+  {
+    "id": 2,
+    "en": "Masters of Evil",
+    "fr": "Maîtres du mal",
+    "img": "img/modular/mastersofevil.png"
+  },
+  {
+    "id": 3,
+    "en": "Under Attack",
+    "fr": "Civils Attaqués",
+    "img": "img/modular/underattack.png"
+  },
+  {
+    "id": 4,
+    "en": "Legions of Hydra",
+    "fr": "Légions d'Hydra",
+    "img": "img/modular/legionsofhydra.png"
+  },
+  {
+    "id": 5,
+    "en": "The Doomsday Chair",
+    "img": "img/modular/doomsdaychair.png"
+  },
+  {
+    "id": 6,
+    "en": "Goblin Gimmicks",
+    "fr": "Gadgets du bouffon",
+    "img": "img/modular/goblingimmicks.png"
+  },
+  {
+    "id": 7,
+    "en": "A Mess of Things",
+    "fr": "Un immense gachis",
+    "img": "img/modular/amessofthethings.png"
+  },
+  {
+    "id": 8,
+    "en": "Power Drain",
+    "img": "img/modular/powerdrain.png"
+  },
+  {
+    "id": 9,
+    "en": "Running Interference",
+    "img": "img/modular/runninginterference.png"
+  },
+  {
+    "id": 10,
+    "en": "Hydra Assault",
+    "img": "img/modular/hydraassault.png"
+  },
+  {
+    "id": 11,
+    "en": "Weapon Master",
+    "img": "img/modular/weaponmaster.png"
+  },
+  {
+    "id": 12,
+    "en": "Hydra Patrol",
+    "img": "img/modular/hydrapatrol.png"
+  },
+  {
+    "id": 13,
+    "en": "Temporal",
+    "img": "img/modular/temporal.png"
+  },
+  {
+    "id": 14,
+    "en": "Anachronauts",
+    "img": "img/modular/anachronauts.png"
+  },
+  {
+    "id": 15,
+    "en": "Master of Time",
+    "img": "img/modular/masteroftime.png"
+  },
+  {
+    "id": 16,
+    "en": "Band of Badoon",
+    "img": "img/modular/bandofbadoon.png"
+  },
+  {
+    "id": 17,
+    "en": "Galactic Artifacts",
+    "img": "img/modular/galacticartifacts.png"
+  },
+  {
+    "id": 18,
+    "en": "Kree Militants",
+    "img": "img/modular/kreemilitants.png"
+  },
+  {
+    "id": 19,
+    "en": "Menagerie Medley",
+    "img": "img/modular/menageriemedley.png"
+  },
+  {
+    "id": 20,
+    "en": "Space Pirates",
+    "img": "img/modular/spacepirates.jpg"
+  },
+  {
+    "id": 21,
+    "en": "Ship Command",
+    "img": "img/modular/shipcommand.png"
+  },
+  {
+    "id": 22,
+    "en": "Power Stone",
+    "img": "img/modular/powerstone.png"
+  },
+  {
+    "id": 23,
+    "en": "The Black Order",
+    "img": "img/modular/theblackorder.png"
+  },
+  {
+    "id": 24,
+    "en": "Armies of Titan",
+    "img": "img/modular/armiesoftitan.png"
+  },
+  {
+    "id": 25,
+    "en": "Children of Thanos",
+    "img": "img/modular/childrenofthanos.png"
+  },
+  {
+    "id": 26,
+    "en": "Infinity Gauntlet",
+    "img": "img/modular/infinitygauntlet.png"
+  },
+  {
+    "id": 27,
+    "en": "Legions of Hel",
+    "img": "img/modular/legionsofhel.png"
+  },
+  {
+    "id": 28,
+    "en": "Frost Giants",
+    "img": "img/modular/frostgiants.png"
+  },
+  {
+    "id": 28,
+    "en": "Enchantress",
+    "img": "img/modular/enchantress.png"
+  },
+  {
+    "id": 29,
+    "en": "Beasty Boys",
+    "img": "img/modular/beastyboys.png"
+  },
+  {
+    "id": 30,
+    "en": "Brothers Grimm",
+    "img": "img/modular/brothersgrimm.png"
+  },
+  {
+    "id": 31,
+    "en": "Mister Hyde",
+    "img": "img/modular/misterhyde.png"
+  },
+  {
+    "id": 32,
+    "en": "Wrecking Crew",
+    "img": "img/modular/wreckingcrew.png"
+  },
+  {
+    "id": 33,
+    "en": "Sinister Syndicate",
+    "img": "img/modular/sinistersyndicate.png"
+  },
+  {
+    "id": 34,
+    "en": "Crossfire’s Crew",
+    "img": "img/modular/crossfirescrew.png"
+  },
+  {
+    "id": 35,
+    "en": "Ransacked Armory",
+    "img": "img/modular/ransackedarmory.png"
+  },
+  {
+    "id": 36,
+    "en": "State of Emergency",
+    "img": "img/modular/stateofemergency.png"
+  },
+  {
+    "id": 37,
+    "en": "Streets of Mayhem",
+    "img": "img/modular/streetsofmayhem.png"
+  },
+  {
+    "id": 38,
+    "en": "City in Chaos",
+    "img": "img/modular/cityinchaos.png"
+  },
+  {
+    "id": 39,
+    "en": "Down to Earth",
+    "img": "img/modular/downtoearth.png"
+  },
+  {
+    "id": 40,
+    "en": "Goblin Gear",
+    "img": "img/modular/goblingear.png"
+  },
+  {
+    "id": 41,
+    "en": "Guerilla Tactics",
+    "img": "img/modular/guerillatactics.png"
+  },
+  {
+    "id": 42,
+    "en": "Osborn Tech",
+    "img": "img/modular/osborntech.png"
+  },
+  {
+    "id": 43,
+    "en": "Personal Nightmare",
+    "img": "img/modular/personalnightmare.png"
+  },
+  {
+    "id": 44,
+    "en": "Sinister Assault",
+    "img": "img/modular/sinisterassault.png"
+  },
+  {
+    "id": 45,
+    "en": "Symbiotic Strength",
+    "img": "img/modular/symbioticstrength.png"
+  },
+  {
+    "id": 46,
+    "en": "Whispers of Paranoia",
+    "img": "img/modular/whispersofparanoia.png"
+  }
+]
