@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState} from 'react';
 import './App.css';
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import {Home} from "./views/Home";
+import {VilainList} from "./views/VilainList";
+import {ModularList} from "./views/ModularList";
+import {Randomizer} from "./views/Randomizer";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [randomizerKey, setRandomizerKey] = useState<number>(0);
+
+    const refresh = () => {
+        setRandomizerKey(randomizerKey + 1);
+    }
+
+    return (
+        <BrowserRouter>
+            <Routes>
+                <Route path="/" element={<Home refresh={refresh}/>}>
+                    <Route path="vilain-list" element={<VilainList/>}/>
+                    <Route path="modular-list" element={<ModularList/>}/>
+                    <Route path="randomizer" element={<Randomizer key={randomizerKey}/>}/>
+                </Route>
+            </Routes>
+        </BrowserRouter>
+    );
 }
 
 export default App;

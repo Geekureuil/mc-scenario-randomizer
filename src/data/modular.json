@@ -3,241 +3,241 @@
     "id": 1,
     "en": "Bomb Scare",
     "fr": "Alerte à la bombe",
-    "img": "img/modular/bombscare.png"
+    "img": "https://marvelcdb.com/bundles/cards/01110.png"
   },
   {
     "id": 2,
     "en": "Masters of Evil",
     "fr": "Maîtres du mal",
-    "img": "img/modular/mastersofevil.png"
+    "img": "https://marvelcdb.com/bundles/cards/01129.png"
   },
   {
     "id": 3,
     "en": "Under Attack",
     "fr": "Civils Attaqués",
-    "img": "img/modular/underattack.png"
+    "img": "https://marvelcdb.com/bundles/cards/01152.png"
   },
   {
     "id": 4,
     "en": "Legions of Hydra",
     "fr": "Légions d'Hydra",
-    "img": "img/modular/legionsofhydra.png"
+    "img": "https://marvelcdb.com/bundles/cards/01182.png"
   },
   {
     "id": 5,
     "en": "The Doomsday Chair",
-    "img": "img/modular/doomsdaychair.png"
+    "img": "https://marvelcdb.com/bundles/cards/01184.png"
   },
   {
     "id": 6,
     "en": "Goblin Gimmicks",
     "fr": "Gadgets du bouffon",
-    "img": "img/modular/goblingimmicks.png"
+    "img": "https://marvelcdb.com/bundles/cards/02033.png"
   },
   {
     "id": 7,
     "en": "A Mess of Things",
     "fr": "Un immense gachis",
-    "img": "img/modular/amessofthethings.png"
+    "img": "https://marvelcdb.com/bundles/cards/02038.png"
   },
   {
     "id": 8,
     "en": "Power Drain",
-    "img": "img/modular/powerdrain.png"
+    "img": "https://marvelcdb.com/bundles/cards/02042.png"
   },
   {
     "id": 9,
     "en": "Running Interference",
-    "img": "img/modular/runninginterference.png"
+    "img": "https://marvelcdb.com/bundles/cards/02047.png"
   },
   {
     "id": 10,
     "en": "Hydra Assault",
-    "img": "img/modular/hydraassault.png"
+    "img": "https://marvelcdb.com/bundles/cards/04145.jpg"
   },
   {
     "id": 11,
     "en": "Weapon Master",
-    "img": "img/modular/weaponmaster.png"
+    "img": "https://marvelcdb.com/bundles/cards/04148.jpg"
   },
   {
     "id": 12,
     "en": "Hydra Patrol",
-    "img": "img/modular/hydrapatrol.png"
+    "img": "https://marvelcdb.com/bundles/cards/04153.jpg"
   },
   {
     "id": 13,
     "en": "Temporal",
-    "img": "img/modular/temporal.png"
+    "img": "https://images-cdn.fantasyflightgames.com/filer_public/d1/29/d1294504-461c-4cf5-ad1b-3aa6eb8bf221/mc11en_tyrannosaurus-res.png"
   },
   {
     "id": 14,
     "en": "Anachronauts",
-    "img": "img/modular/anachronauts.png"
+    "img": "https://lcgcdn.s3.amazonaws.com/mc/MC11en_41.jpg"
   },
   {
     "id": 15,
     "en": "Master of Time",
-    "img": "img/modular/masteroftime.png"
+    "img": "https://lcgcdn.s3.amazonaws.com/mc/MC11en_51.jpg"
   },
   {
     "id": 16,
     "en": "Band of Badoon",
-    "img": "img/modular/bandofbadoon.png"
+    "img": "https://marvelcdb.com/bundles/cards/16117.jpg"
   },
   {
     "id": 17,
     "en": "Galactic Artifacts",
-    "img": "img/modular/galacticartifacts.png"
+    "img": "https://marvelcdb.com/bundles/cards/16124.jpg"
   },
   {
     "id": 18,
     "en": "Kree Militants",
-    "img": "img/modular/kreemilitants.png"
+    "img": "https://marvelcdb.com/bundles/cards/16132.jpg"
   },
   {
     "id": 19,
     "en": "Menagerie Medley",
-    "img": "img/modular/menageriemedley.png"
+    "img": "https://marvelcdb.com/bundles/cards/16137.jpg"
   },
   {
     "id": 20,
     "en": "Space Pirates",
-    "img": "img/modular/spacepirates.jpg"
+    "img": "https://marvelcdb.com/bundles/cards/16138.jpg"
   },
   {
     "id": 21,
     "en": "Ship Command",
-    "img": "img/modular/shipcommand.png"
+    "img": "https://marvelcdb.com/bundles/cards/16142.jpg"
   },
   {
     "id": 22,
     "en": "Power Stone",
-    "img": "img/modular/powerstone.png"
+    "img": "https://marvelcdb.com/bundles/cards/16149.jpg"
   },
   {
     "id": 23,
     "en": "The Black Order",
-    "img": "img/modular/theblackorder.png"
+    "img": "https://marvelcdb.com/bundles/cards/21086.png"
   },
   {
     "id": 24,
     "en": "Armies of Titan",
-    "img": "img/modular/armiesoftitan.png"
+    "img": "https://marvelcdb.com/bundles/cards/21089.png"
   },
   {
     "id": 25,
     "en": "Children of Thanos",
-    "img": "img/modular/childrenofthanos.png"
+    "img": "https://marvelcdb.com/bundles/cards/21127.png"
   },
   {
     "id": 26,
     "en": "Infinity Gauntlet",
-    "img": "img/modular/infinitygauntlet.png"
+    "img": "https://marvelcdb.com/bundles/cards/21129.png"
   },
   {
     "id": 27,
     "en": "Legions of Hel",
-    "img": "img/modular/legionsofhel.png"
+    "img": "https://marvelcdb.com/bundles/cards/21152.png"
   },
   {
     "id": 28,
     "en": "Frost Giants",
-    "img": "img/modular/frostgiants.png"
+    "img": "https://marvelcdb.com/bundles/cards/21156.png"
   },
   {
     "id": 28,
     "en": "Enchantress",
-    "img": "img/modular/enchantress.png"
+    "img": "https://marvelcdb.com/bundles/cards/21177.png"
   },
   {
     "id": 29,
     "en": "Beasty Boys",
-    "img": "img/modular/beastyboys.png"
+    "img": "https://marvelcdb.com/bundles/cards/24016.jpg"
   },
   {
     "id": 30,
     "en": "Brothers Grimm",
-    "img": "img/modular/brothersgrimm.png"
+    "img": "https://marvelcdb.com/bundles/cards/24018.jpg"
   },
   {
     "id": 31,
     "en": "Mister Hyde",
-    "img": "img/modular/misterhyde.png"
+    "img": "https://marvelcdb.com/bundles/cards/24035.jpg"
   },
   {
     "id": 32,
     "en": "Wrecking Crew",
-    "img": "img/modular/wreckingcrew.png"
+    "img": "https://marvelcdb.com/bundles/cards/24067.jpg"
   },
   {
     "id": 33,
     "en": "Sinister Syndicate",
-    "img": "img/modular/sinistersyndicate.png"
+    "img": "https://marvelcdb.com/bundles/cards/24045.jpg"
   },
   {
     "id": 34,
     "en": "Crossfire’s Crew",
-    "img": "img/modular/crossfirescrew.png"
+    "img": "https://marvelcdb.com/bundles/cards/24026.jpg"
   },
   {
     "id": 35,
     "en": "Ransacked Armory",
-    "img": "img/modular/ransackedarmory.png"
+    "img": "https://marvelcdb.com/bundles/cards/24041.jpg"
   },
   {
     "id": 36,
     "en": "State of Emergency",
-    "img": "img/modular/stateofemergency.png"
+    "img": "https://marvelcdb.com/bundles/cards/24059.jpg"
   },
   {
     "id": 37,
     "en": "Streets of Mayhem",
-    "img": "img/modular/streetsofmayhem.png"
+    "img": "https://marvelcdb.com/bundles/cards/24063.jpg"
   },
   {
     "id": 38,
     "en": "City in Chaos",
-    "img": "img/modular/cityinchaos.png"
+    "img": "https://marvelcdb.com/bundles/cards/27128.png"
   },
   {
     "id": 39,
     "en": "Down to Earth",
-    "img": "img/modular/downtoearth.png"
+    "img": "https://marvelcdb.com/bundles/cards/27131.png"
   },
   {
     "id": 40,
     "en": "Goblin Gear",
-    "img": "img/modular/goblingear.png"
+    "img": "https://marvelcdb.com/bundles/cards/27138.png"
   },
   {
     "id": 41,
     "en": "Guerilla Tactics",
-    "img": "img/modular/guerillatactics.png"
+    "img": "https://marvelcdb.com/bundles/cards/27142.png"
   },
   {
     "id": 42,
     "en": "Osborn Tech",
-    "img": "img/modular/osborntech.png"
+    "img": "https://marvelcdb.com/bundles/cards/27148.png"
   },
   {
     "id": 43,
     "en": "Personal Nightmare",
-    "img": "img/modular/personalnightmare.png"
+    "img": "https://marvelcdb.com/bundles/cards/27154.png"
   },
   {
     "id": 44,
     "en": "Sinister Assault",
-    "img": "img/modular/sinisterassault.png"
+    "img": "https://marvelcdb.com/bundles/cards/27158.png"
   },
   {
     "id": 45,
     "en": "Symbiotic Strength",
-    "img": "img/modular/symbioticstrength.png"
+    "img": "https://marvelcdb.com/bundles/cards/27167.png"
   },
   {
     "id": 46,
     "en": "Whispers of Paranoia",
-    "img": "img/modular/whispersofparanoia.png"
+    "img": "https://marvelcdb.com/bundles/cards/27171.png"
   }
 ]

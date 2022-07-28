@@ -2,49 +2,49 @@
   {
     "id": 1,
     "en": "Rhino",
-    "img": "img/vilain/rhino.png",
+    "img": "https://marvelcdb.com/bundles/cards/01094.png",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 2,
     "en": "Klaw",
-    "img": "img/vilain/klaw.png",
+    "img": "https://marvelcdb.com/bundles/cards/01113.png",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 3,
     "en": "Ultron",
-    "img": "img/vilain/ultron.png",
+    "img": "https://marvelcdb.com/bundles/cards/01134.png",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 4,
     "en": "Risky Business",
-    "img": "img/vilain/riskybusiness.png",
+    "img": "https://marvelcdb.com/bundles/cards/02001a.jpg",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 5,
     "en": "Mutagen Formula",
-    "img": "img/vilain/mutagenformula.png",
+    "img": "https://marvelcdb.com/bundles/cards/02014.png",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 6,
     "en": "Wrecking Crew",
-    "img": "img/vilain/wreckingcrew.png",
+    "img": "https://marvelcdb.com/bundles/cards/07032.png",
     "modularMandatory": [],
     "modularRandom": 0
   },
   {
     "id": 7,
     "en": "Crossbones",
-    "img": "img/vilain/crossbones.png",
+    "img": "https://marvelcdb.com/bundles/cards/04058.jpg",
     "modularMandatory": [
       11
     ],
@@ -53,14 +53,14 @@
   {
     "id": 8,
     "en": "Absorbing Man",
-    "img": "img/vilain/absorbingman.png",
+    "img": "https://marvelcdb.com/bundles/cards/04076.jpg",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 9,
     "en": "Taskmaster",
-    "img": "img/vilain/taskmaster.png",
+    "img": "https://marvelcdb.com/bundles/cards/04093.jpg",
     "modularMandatory": [
       12
     ],
@@ -69,28 +69,28 @@
   {
     "id": 10,
     "en": "Zola",
-    "img": "img/vilain/zola.png",
+    "img": "https://marvelcdb.com/bundles/cards/04109.jpg",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 11,
     "en": "Red Skull",
-    "img": "img/vilain/redskull.png",
+    "img": "https://marvelcdb.com/bundles/cards/04125.jpg",
     "modularMandatory": [],
     "modularRandom": 2
   },
   {
     "id": 12,
     "en": "Kang",
-    "img": "img/vilain/kang.png",
+    "img": "https://lcgcdn.s3.amazonaws.com/mc/MC11en_1.jpg",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 13,
     "en": "Drang",
-    "img": "img/vilain/drang.png",
+    "img": "https://marvelcdb.com/bundles/cards/16058.jpg",
     "modularMandatory": [
       21
     ],
@@ -98,8 +98,8 @@
   },
   {
     "id": 14,
-    "en": "Collector - Infiltrate the Museum",
-    "img": "img/vilain/collector1.png",
+    "en": "Infiltrate the Museum",
+    "img": "https://images-cdn.fantasyflightgames.com/filer_public/41/ae/41aee570-e38f-41cf-a980-06bf743b3614/mc16en_collector1.png",
     "modularMandatory": [
       17
     ],
@@ -107,8 +107,8 @@
   },
   {
     "id": 15,
-    "en": "Collector – Escape the Museum",
-    "img": "img/vilain/collector2.png",
+    "en": "Escape the Museum",
+    "img": "https://marvelcdb.com/bundles/cards/16080a.jpg",
     "modularMandatory": [
       17,
       21
@@ -118,7 +118,7 @@
   {
     "id": 16,
     "en": "Nebula",
-    "img": "img/vilain/nebula.png",
+    "img": "https://marvelcdb.com/bundles/cards/16088.jpg",
     "modularMandatory": [
       22,
       21
@@ -128,7 +128,7 @@
   {
     "id": 17,
     "en": "Ronan",
-    "img": "img/vilain/ronan.png",
+    "img": "https://marvelcdb.com/bundles/cards/16103.jpg",
     "modularMandatory": [
       22,
       21
@@ -138,21 +138,21 @@
   {
     "id": 18,
     "en": "Ebony Maw",
-    "img": "img/vilain/ebonymaw.png",
+    "img": "https://marvelcdb.com/bundles/cards/21071.png",
     "modularMandatory": [],
     "modularRandom": 2
   },
   {
     "id": 19,
-    "en": "Proxima Midnight/Corvus Glaive",
-    "img": "img/vilain/proximamidnight.png",
+    "en": "Proxima Midnight",
+    "img": "https://marvelcdb.com/bundles/cards/21092.png",
     "modularMandatory": [],
     "modularRandom": 1
   },
   {
     "id": 20,
     "en": "Thanos",
-    "img": "img/vilain/thanos.png",
+    "img": "https://marvelcdb.com/bundles/cards/21111.png",
     "modularMandatory": [
       26
     ],
@@ -161,14 +161,14 @@
   {
     "id": 21,
     "en": "Hela",
-    "img": "img/vilain/hela.png",
+    "img": "https://marvelcdb.com/bundles/cards/21136a.png",
     "modularMandatory": [],
     "modularRandom": 2
   },
   {
     "id": 22,
     "en": "Loki",
-    "img": "img/vilain/loki.png",
+    "img": "https://marvelcdb.com/bundles/cards/21160.png",
     "modularMandatory": [
       26
     ],
@@ -177,14 +177,14 @@
   {
     "id": 23,
     "en": "The Hood",
-    "img": "img/vilain/thehood.png",
+    "img": "https://marvelcdb.com/bundles/cards/24001.jpg",
     "modularMandatory": [],
     "modularRandom": 7
   },
   {
     "id": 24,
     "en": "Sandman",
-    "img": "img/vilain/sandman.png",
+    "img": "https://marvelcdb.com/bundles/cards/27061.png",
     "modularMandatory": [
       38
     ],
@@ -193,7 +193,7 @@
   {
     "id": 25,
     "en": "Venom",
-    "img": "img/vilain/venom.png",
+    "img": "https://marvelcdb.com/bundles/cards/27073.png",
     "modularMandatory": [
       45
     ],
@@ -202,7 +202,7 @@
   {
     "id": 26,
     "en": "Mysterio",
-    "img": "img/vilain/mysterio.png",
+    "img": "https://marvelcdb.com/bundles/cards/27084.png",
     "modularMandatory": [
       43
     ],
@@ -211,7 +211,7 @@
   {
     "id": 27,
     "en": "Sinister Six",
-    "img": "img/vilain/sinistersix.png",
+    "img": "https://marvelcdb.com/bundles/cards/27095.png",
     "modularMandatory": [
       41
     ],
@@ -220,7 +220,7 @@
   {
     "id": 28,
     "en": "Venom Goblin",
-    "img": "img/vilain/venomgoblin.png",
+    "img": "https://marvelcdb.com/bundles/cards/27113.png",
     "modularMandatory": [
       45
     ],
