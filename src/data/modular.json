@@ -146,11 +146,6 @@
     "img": "https://marvelcdb.com/bundles/cards/21156.png"
   },
   {
-    "id": 28,
-    "en": "Enchantress",
-    "img": "https://marvelcdb.com/bundles/cards/21177.png"
-  },
-  {
     "id": 29,
     "en": "Beasty Boys",
     "img": "https://marvelcdb.com/bundles/cards/24016.jpg"
@@ -239,5 +234,10 @@
     "id": 46,
     "en": "Whispers of Paranoia",
     "img": "https://marvelcdb.com/bundles/cards/27171.png"
+  },
+  {
+    "id": 47,
+    "en": "Enchantress",
+    "img": "https://marvelcdb.com/bundles/cards/21177.png"
   }
 ]

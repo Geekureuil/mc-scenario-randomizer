@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "en": "Core Set",
+    "fr": "Boite de Base",
+    "type": "Core"
+  },
+  {
+    "id": 2,
+    "en": "The Green Goblin",
+    "fr": "Le Bouffon Vert",
+    "type": "Scenario"
+  },
+  {
+    "id": 3,
+    "en": "The Wrecking Crew",
+    "fr": "Les Démolisseurs",
+    "type": "Scenario"
+  },
+  {
+    "id": 4,
+    "en": "The Once And Future Kang",
+    "fr": "Kang le Conquérant",
+    "type": "Scenario"
+  },
+  {
+    "id": 5,
+    "en": "The Hood",
+    "fr": "The Hood",
+    "type": "Scenario"
+  },
+  {
+    "id": 6,
+    "en": "MojoMania",
+    "fr": "MojoMania",
+    "type": "Scenario"
+  },
+  {
+    "id": 7,
+    "en": "The Rise of Red Skull",
+    "fr": "L'Avènement de Crâne Rouge",
+    "type": "Campaign"
+  },
+  {
+    "id": 8,
+    "en": "Galaxy's Most Wanted",
+    "fr": "Convoitise Galactique",
+    "type": "Campaign"
+  },
+  {
+    "id": 9,
+    "en": "The Mad Titan's Shadow",
+    "fr": "L'Ombre du Titan Fou",
+    "type": "Campaign"
+  },
+  {
+    "id": 10,
+    "en": "Sinister Motive",
+    "fr": "Sinistres Motivations",
+    "type": "Campaign"
+  },
+  {
+    "id": 11,
+    "en": "Nova",
+    "fr": "Nova",
+    "type": " Hero"
+  },
+  {
+    "id": 12,
+    "en": "Ironheart",
+    "fr": "Ironheart",
+    "type": " Hero"
+  },
+  {
+    "id": 13,
+    "en": "Spider-Ham",
+    "fr": "Spider-Ham",
+    "type": " Hero"
+  },
+  {
+    "id": 14,
+    "en": "SP//dr",
+    "fr": "SP//dr",
+    "type": " Hero"
+  }
+]
